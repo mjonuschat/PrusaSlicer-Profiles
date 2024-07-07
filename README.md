@@ -9,7 +9,7 @@ Please check the changelog at the end of this document for the latest changes.
 
 ## Important Notes
 
-* **⚠** Tested PrusaSlicer version: **2.6.0** (2023-06-20)
+* **⚠** Tested PrusaSlicer version: **2.8.0** (2024-06-27)
 * **⚠** Use these at your own risk. Make backups of your existing profiles before using these.
 * **⚠** All the warnings and notes from the [upstream profile](https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles/blob/master/README.md) apply
 * **⚠** Use different PrusaSlicer versions at your peril.
@@ -22,9 +22,7 @@ Please check the changelog at the end of this document for the latest changes.
 
 ## What's missing (key features)
 
-* Single Perimeter on top surfaces - [PR #10648](https://github.com/prusa3d/PrusaSlicer/pull/10648)
 * 45° profiles - [PR #10651](https://github.com/prusa3d/PrusaSlicer/pull/10651)
-* Filament chamber temperature - [PR #10649](https://github.com/prusa3d/PrusaSlicer/pull/10649)
 * Matching „Solid Infill Pattern“ - [PR #10652](https://github.com/prusa3d/PrusaSlicer/pull/10652)
 * Reduced (50%) bridge density - [PR #10650](https://github.com/prusa3d/PrusaSlicer/pull/10650)
 * Many advanced (micro) adjustments from SuperSlicer  
@@ -36,5 +34,9 @@ The Voron bed models linked from the upstream readme work in PrusaSlicer as well
 
 ## Changelog
 
+* 2024-07-06:
+  * Updated profiles for PrusaSlicer 2.8.0
+    * Enabled `chamber_temperature` and `chamber_minimal_temperature` settings
+    * Enabled single perimeter on all top surfaces
 * 2023-07-27:
   * Initial release based on the upstream version from 2022-11-09 (flip-flopping edition!).
