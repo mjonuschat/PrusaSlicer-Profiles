@@ -1,5 +1,17 @@
 # Ellis SuperSlicer Profiles for PrusaSlicer
 
+> [!WARNING]
+> ## Archived project
+>
+> This repository is no longer maintained. For new setups, use the profiles
+> bundled with PrusaSlicer. They were modernized in **February 2026** and are
+> the recommended starting point.
+>
+> This repository remains available for historical reference and for
+> reproducing existing setups. It targets PrusaSlicer **2.8.0** (2024-06-27),
+> and compatibility with later versions is not maintained. Back up existing
+> profiles before using these files.
+
 This is a close adaption of [Ellis SuperSlicer Profiles](https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles) for PrusaSlicer.
 Please read through the upstream README thoroughly for important **WARNINGS**, pitfalls, headaches and useful tips & tricks.
 
